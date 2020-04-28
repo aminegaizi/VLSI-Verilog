@@ -1,0 +1,2 @@
+analyze -format sverilog -lib WORK test.sv
+elaborate test -lib WORK
