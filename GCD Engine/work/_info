@@ -1,0 +1,66 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/nfs/stak/users/gaizia/Documents/ECE574/HW4
+T_opt
+!s110 1588897066
+Ve5Aa36Yg:TNUR6RN?U9Ub3
+04 5 4 work tbgcd fast 0
+=1-14feb5d110e3-5eb4a52a-6a3a0-3277
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.5;63
+R0
+vgcd
+Z2 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 j;bl4WPW6Q2a1ONP[ej0O1
+IZYnH2=X`[bI]4]d=Wk=[m2
+!s105 gcd_sv_unit
+S1
+R0
+w1588898331
+8./src/gcd.sv
+F./src/gcd.sv
+L0 1
+Z4 OL;L;10.5;63
+Z5 !s108 1588898334.000000
+Z6 !s107 ./src/tbgcd.sv|./src/gcd.sv|
+Z7 !s90 ./src/gcd.sv|./src/tbgcd.sv|
+!i113 0
+Z8 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vtbgcd
+R2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 b0gQORUEPz4eLTUCRZ74K0
+Ino_5Ml5R<TPOg6@nYYZ>W3
+!s105 tbgcd_sv_unit
+S1
+R0
+w1588897851
+8./src/tbgcd.sv
+F./src/tbgcd.sv
+L0 3
+R4
+R5
+R6
+R7
+!i113 0
+R8
+R1
